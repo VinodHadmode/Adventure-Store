@@ -1,4 +1,4 @@
-# EMS - Sport product website
+# Adventure Store
 
 Welcome to the ShopEasy - A Clone of EMS-eastern mountain sports!! This is a full-stack e-commerce application developed using the MERN stack. The project aims to replicate the core features and user experience of the popular online fashion and lifestyle marketplace, EMS.
 
