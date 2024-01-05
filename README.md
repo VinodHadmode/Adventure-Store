@@ -1,6 +1,6 @@
 # Adventure Store
 
-Welcome to the ShopEasy - A Clone of EMS-eastern mountain sports!! This is a full-stack e-commerce application developed using the MERN stack. The project aims to replicate the core features and user experience of the popular online fashion and lifestyle marketplace, EMS.
+Welcome to the Adventure Store - A Clone of EMS-eastern mountain sports!! This is a full-stack e-commerce application developed using the MERN stack. The project aims to replicate the core features and user experience of the popular online fashion and lifestyle marketplace, EMS.
 
 ## Features
 
@@ -14,7 +14,7 @@ Welcome to the ShopEasy - A Clone of EMS-eastern mountain sports!! This is a ful
 
 ## Technologies Used
 
-**Frontend :** React.js, Bootstrap and ant-design for styling.
+**Frontend :** HTML,CSS,React and Chakra UI for styling.
 
 **Backend :** Used JSON Mock server as database.
 
